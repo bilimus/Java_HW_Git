@@ -3,6 +3,7 @@ public class Hello {
         System.out.println("Hello git");
 
         System.out.println(("Work work"));
+        System.out.println(("hello dude"));
     }
 
 }
