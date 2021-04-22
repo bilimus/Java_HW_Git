@@ -4,6 +4,8 @@ public class Hello {
 
         System.out.println(("Work work"));
         System.out.println(("hello dude"));
+
+        System.out.println(("new dude br"));
     }
 
 }
